@@ -1,0 +1,3 @@
+C:\RDMS\Geo DSS-Demand\Test Driven Development\GAME\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\RDMS\Geo DSS-Demand\Test Driven Development\GAME\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\RDMS\Geo DSS-Demand\Test Driven Development\GAME\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
